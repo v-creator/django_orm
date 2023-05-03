@@ -1,0 +1,16 @@
+.DS_Store
+.vscode/
+**/log/*
+**/logs/*
+.idea/
+**/*.iml
+.venv
+/venv
+.env
+/env
+*.log
+*.egg-info/
+*__pycache__
+*.ipynb_checkpoints
+.coverage
+.ipynb
